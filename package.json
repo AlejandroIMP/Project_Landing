@@ -1,0 +1,19 @@
+{
+  "name": "project_landing",
+  "version": "1.0.0",
+  "description": "Project of async in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
